@@ -1,0 +1,26 @@
+img{
+    border: 5px solid white;
+    width: 100%;
+    box-sizing: border-box;
+    size: adjust 20px;
+    height: 450px;
+    
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 99%;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    text-transform: uppercase;
+    text-align: center;
+    text-indent: 1px;
+    font-size: large;
+    font-size: 23px;
+}
